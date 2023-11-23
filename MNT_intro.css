@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display:wght@100;200;300;400&family=Noto+Serif+KR:wght@300;400&family=Noto+Serif+Thai:wght@200;300;400&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans Display', sans-serif;
+    font-family: 'Noto Serif KR', serif;
+    font-family: 'Noto Serif Thai', serif;
+  }
+.topic .topic_name{
+    margin-top:20px;
+    font-size: 50px;
+    text-align: center;
+}
+.story {
+    float: right;
+    
+    width: 50%;
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+.story h2{
+    
+    font-size: 36px;
+}
+.story p{
+    font-size: 17px;
+    text-align: justify;
+}
+.photo{
+    float: left;
+    text-align: center;
+    width: 50%;
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+.vdo{
+    padding-bottom: 40px;
+    text-align: center;
+    
+}
+.vdo h1{
+    padding-top: 10px;
+}
+.start{
+    float: left;
+    width: 50%;
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+.start p{
+    text-align: justify; 
+    font-size: 15px; 
+
+}
+.photo2{
+    text-align: justify;
+    width: 100%;
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+.photo2 h2{
+    font-size: 36px;
+    text-align: center;
+    padding-bottom: 20px;
+
+}
+.photo2 p{
+    font-size: 17px;
+    
+}
+
+.photo3{
+    float: left;
+    width: 50%;
+    padding-top: 30px;
+    text-align: center;
+    padding-left: 50px;
+    padding-bottom: 30px;
+}
+.photo4{
+    float: right;
+    width: 50%;
+    padding-top: 30px;
+    text-align: center;
+    padding-right: 50px;
+    padding-bottom: 30px;
+
+}
+
+/*
+.page-container {
+    position: relative;
+    min-height: 100vh;
+  }
+
+  
+.content-wrap {
+    padding-bottom: 2.5rem;    
+  }
+
+  #page-container {
+    position: relative;
+    min-height: 55vh;
+  }
+  
+  #content-wrap {
+    padding-bottom: 100px;    
+  }
+  
+  #footer {
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;    
+    color: black;
+  }
+*/ 
+
+
+
+

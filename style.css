@@ -18,15 +18,21 @@
     font-size: medium;
     
   }
+  
+
   .menu-bar ul{
     display: inline-flex;
     list-style: none;
     color: #000;
+    
+
   }
+
   .menu-bar ul li{
     width: 150px;
     margin: 20px;
     padding: 7px;
+    
     
   }
   .menu-bar ul li a{
@@ -160,8 +166,8 @@
   }
   
   .hero-image {
-    width: 550px;
-    height: 400px;
+    width: 450px;
+    height: 300px;
   }
   
   @media screen and (max-width: 768px) {

@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display:wght@100;200;300;400&family=Noto+Serif+KR:wght@300;400&family=Noto+Serif+Thai:wght@200;300;400&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans Display', sans-serif;
+    font-family: 'Noto Serif KR', serif;
+    font-family: 'Noto Serif Thai', serif;
+  }
+
+
+
+.bible h1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+
+}
+
+.quote-box {
+    background-color: white;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    position: relative;
+}
+
+.quote-box:before {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -10px;
+    border-left: 10px solid #ccc;
+    border-bottom: 10px solid transparent;
+    border-top: 10px solid transparent;
+}
+
+.quote-box p {
+    margin: 0;
+    padding: 3px;
+    
+}
+
+.quote-box p.quote {
+    font-size: 24px;
+    line-height: 1.2;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.quote-box p.author {
+    font-size: 18px;
+    color: #777;
+    padding-left: 450px;
+}
+.under {
+    text-decoration: underline rgb(0, 0, 0);
+   
+  }
